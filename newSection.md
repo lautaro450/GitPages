@@ -1,5 +1,5 @@
 ---
-layout: newSection
+layout: blank
 title: Section
 permalink: /about/
 ---
